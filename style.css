@@ -80,10 +80,12 @@ body{
 }
 .menu-one{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     padding-bottom: 25px;
 }
 .menu-tow{
+    flex-wrap: wrap;
     display: flex;
     justify-content: space-between;
 }
